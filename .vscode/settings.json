@@ -1,1 +1,11 @@
-{} 
+{
+    // Workspace settings: keep these minimal. Don't set python interpreter here;
+    // pick it using the VS Code "Python: Select Interpreter" command.
+    "cSpell.words": [
+        "Lidiya",
+        "Getale",
+        "malanville",
+        "Sgust"
+    ]
+}
+
