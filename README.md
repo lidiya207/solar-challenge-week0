@@ -53,7 +53,7 @@ The goal is to prepare, clean, and visualize solar datasets to identify insights
 
 ### 1️⃣ Clone the Repository
 ```bash
-git clone https://github.com/<your-username>/solar-challenge-week0.git
+git clone https://github.com/<lidiya207>/solar-challenge-week0.git
 cd solar-challenge-week0
 ```
 
